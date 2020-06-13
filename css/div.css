@@ -1,0 +1,144 @@
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+#m {
+    float: right;
+}
+
+    #m a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 20px 30px;
+        text-decoration: none;
+        font-size: 27px;
+    }
+
+#myname {
+    float: left;
+    display: block;
+    color: white;
+    font-size: 18px;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+
+
+.container 
+{
+  padding-right: 150px;
+  padding-left: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row 
+{
+  margin-right: -15px;
+  margin-left: -15px;
+}
+ .column{
+    float: left;
+  }
+  .column{
+    width: 100%;
+  }
+  
+  #mysummary{
+      float:left;
+      margin-left:10px;
+  }
+#summ {
+    float: left;
+    margin-left: 10px;
+    font-size:18px;
+}
+.imagesss{
+    width: 150px;
+
+    height: 146px;
+    border: 3px solid black;
+    margin-left:1068px;
+    
+
+}
+
+.box1 {
+    width: 150px;
+    height: 146px;
+    border: 3px solid black;
+    margin-left: 1068px;
+}
+
+#myaccom {
+    float: left;
+    margin-left: 10px;
+}
+
+#al li {
+    font-size:20px;
+}
+
+#aboutme {
+    font-size:34px;
+    font-family:'Brush Script MT';
+    font-style:italic;
+    margin-left:12px;
+}
+
+#aboutt{
+    margin-top:20px;
+}
+
+#accomsec{
+    margin-top: 20px;
+}
+
+#footer{
+    
+    margin-top:30px;
+    width: 100%;
+    background-color:black;
+    color: white;
+    text-align: center;
+}
+
+#mysum{
+    padding:20px;
+}
+
+font {
+    
+    margin-left:-180px;
+    font-size:18px;
+    
+}
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+}
+
+
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    
+}
+
+    
+    
+
